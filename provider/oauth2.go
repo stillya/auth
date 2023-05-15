@@ -17,7 +17,7 @@ import (
 	"github.com/go-pkgz/auth/token"
 )
 
-// Oauth2Handler implements /login, /callback and /logout handlers from aouth2 flow
+// Oauth2Handler implements /login, /callback and /logout handlers from oauth2 flow
 type Oauth2Handler struct {
 	Params
 
